@@ -19,7 +19,9 @@
 
 - 📄 Resume [Check My Experience](https://drive.google.com/file/d/1kPDUERw0vpPNF3LtlbLr9BJmabyWjg7U/view?usp=drive_link)
 
-- 🔭 I’m currently working on project [Buyer Zone Bd](https://www.buyerzonebd.com/)
+- 🔭 I’m studying Master's In CSE at [Bangladesh University Of Professionals](https://bup.edu.bd/)
+
+- 🔭 I’m currently working on project [Glowmeko](https://glowmeko.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
